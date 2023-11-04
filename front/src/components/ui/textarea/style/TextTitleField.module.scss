@@ -1,0 +1,21 @@
+.title {
+  font-size: 32px;
+  background: transparent;
+  resize: none;
+  overflow: hidden;
+  font-weight: 900;
+  line-height: 110%;
+  height: fit-content;
+  white-space: pre-wrap;
+  max-height: 500px;
+
+  text--color: #ff4d4f;
+
+  &:focus {
+    border: none;
+  }
+  &:focus-visible {
+    border: 1px salmon;
+    outline: none;
+  }
+}

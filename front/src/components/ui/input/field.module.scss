@@ -1,0 +1,15 @@
+
+.error{
+  height: 26px;
+color: red;
+  font-size:  14px;
+}
+.field{
+  label{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4px;
+
+  }
+}

@@ -1,0 +1,22 @@
+.main{
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.badge{
+  position: absolute;
+  top: 0;
+ transform: translate(80%, -50%);
+  z-index: auto;
+  min-width: 20px;
+  height: 20px;
+  color: #ffffff;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  white-space: nowrap;
+  text-align: center;
+  background: #ff4d4f;
+  border-radius: 10px;
+  box-shadow: 0 0 0 1px #ffffff;
+}

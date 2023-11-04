@@ -1,0 +1,23 @@
+
+
+.form-w-500{
+  min-width: 500px;
+}
+.grid-layout{
+  display: grid;
+
+}
+.btn-active{
+  background: yellow;
+}
+.container{
+  max-width: 1245px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.header{
+  align-items: center;
+  display: flex;
+  //justify-content: space-between;
+  position: relative;
+}
